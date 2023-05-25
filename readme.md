@@ -18,5 +18,4 @@
 
 |          | leyenda  |          |
 |----------|----------|----------|
-| [![a](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/GuillermoKC) | -Mi git hub*italic*.
--elance para ver donde resumi **bold**. | [Ir a web donde saque la indformación]([http://www.google.es](https://www.hostinger.es/tutoriales/comandos-de-git))   |
+| [![a](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/GuillermoKC) | -Mi git hub*italic*. -elance para ver donde resumi **bold**. | [Ir a web donde saque la indformación]([http://www.google.es](https://www.hostinger.es/tutoriales/comandos-de-git))   |
