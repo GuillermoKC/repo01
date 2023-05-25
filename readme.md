@@ -18,4 +18,4 @@
 
 |          | leyenda  |          |
 |----------|----------|----------|
-| [![a](https://www.google.es/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](www.google.es)  | Cell 2   | Cell 3   |
+| [![a](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)]([www.google.es](https://github.com/GuillermoKC))  | Mi git hub   | [Ir a web donde saque la indformación]([http://www.google.es](https://www.hostinger.es/tutoriales/comandos-de-git))   |
