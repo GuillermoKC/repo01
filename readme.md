@@ -16,6 +16,6 @@
 **git fetch: Obtiene los cambios más recientes de un repositorio remoto, pero no los fusiona automáticamente con la rama local.**  
 **Estos son solo algunos de los comandos más utilizados en Git. Hay muchos más comandos y opciones disponibles que pueden ser útiles en diferentes situaciones. Puedes obtener más información sobre cada comando utilizando git help <comando> o consultando la documentación oficial de Git.**  
 
-|          |          |          |
+|          | leyenda  |          |
 |----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   |
+| ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](https://user-images.githubusercontent.com/32896437/153675215-dff3448c-56bc-4da0-9cf1-6a394fd9c6f8.png "Texto a mostrar cuando nos situamos sobre la imagen. En este caso sería Baile de la película Pulp Fiction")    | Cell 2   | Cell 3   |
